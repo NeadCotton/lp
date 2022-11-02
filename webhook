@@ -1,0 +1,2 @@
+- name: Webhook Trigger
+  uses: zzzze/webhook-trigger@v1.0.0
